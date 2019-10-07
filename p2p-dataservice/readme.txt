@@ -1,0 +1,4 @@
+p2p-dataservice工程是Dubbo的服务提供者
+它会负责连接数据库，它会负责数据持久层以及业务接口的实现类
+它会把提供的所有服务注册到Dubbo官方推荐的Zookeeper注册中心
+该工程使用了：Spring和MyBatis框架

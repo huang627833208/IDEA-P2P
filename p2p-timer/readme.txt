@@ -1,0 +1,3 @@
+p2p-timer它也是Dubbo服务的消费者
+该工程使用了Spring提供的Task定时器，请求不需要用户从浏览器客户端发送过来，通过定时器定期来发送请求
+该工程使用了：Spring和Spring task

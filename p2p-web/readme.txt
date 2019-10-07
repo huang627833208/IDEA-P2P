@@ -1,0 +1,4 @@
+p2p-web是Dubbo服务的消费者工程
+它会从Zookeeper注册中心获取服务提供者所提供的服务
+该工程也是唯一一个用户能直接访问的工程
+该工程使用了：SpringMVC和Spring框架

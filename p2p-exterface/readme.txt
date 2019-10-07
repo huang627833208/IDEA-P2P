@@ -1,0 +1,2 @@
+p2p-exterface工程是Dubbo分布式框架推荐的一种开发模式，要求必须有一个接口工程
+该工程存放项目的实体bean和业务接口service
